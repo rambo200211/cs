@@ -1,0 +1,10 @@
+node_modules/
+.expo/
+android/.gradle/
+android/build/
+.env
+.env.*
+!.env.example
+*.keystore
+*.jks
+*.key
